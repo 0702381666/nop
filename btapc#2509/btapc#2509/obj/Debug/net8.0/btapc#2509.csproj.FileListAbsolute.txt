@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\btapc#2509\btapc#2509\bin\Debug\net8.0\btapc#2509.exe
+C:\Users\User\source\repos\btapc#2509\btapc#2509\bin\Debug\net8.0\btapc#2509.deps.json
+C:\Users\User\source\repos\btapc#2509\btapc#2509\bin\Debug\net8.0\btapc#2509.runtimeconfig.json
+C:\Users\User\source\repos\btapc#2509\btapc#2509\bin\Debug\net8.0\btapc#2509.dll
+C:\Users\User\source\repos\btapc#2509\btapc#2509\bin\Debug\net8.0\btapc#2509.pdb
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\btapc#2509.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\btapc#2509.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\btapc#2509.AssemblyInfo.cs
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\btapc#2509.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\btapc#2509.dll
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\refint\btapc#2509.dll
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\btapc#2509.pdb
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\btapc#2509.genruntimeconfig.cache
+C:\Users\User\source\repos\btapc#2509\btapc#2509\obj\Debug\net8.0\ref\btapc#2509.dll
