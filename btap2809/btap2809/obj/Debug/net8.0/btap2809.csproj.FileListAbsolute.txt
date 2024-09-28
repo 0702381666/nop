@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\btap2809.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\btap2809.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\btap2809.AssemblyInfo.cs
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\btap2809.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\btap2809\btap2809\bin\Debug\net8.0\btap2809.exe
+C:\Users\User\source\repos\btap2809\btap2809\bin\Debug\net8.0\btap2809.deps.json
+C:\Users\User\source\repos\btap2809\btap2809\bin\Debug\net8.0\btap2809.runtimeconfig.json
+C:\Users\User\source\repos\btap2809\btap2809\bin\Debug\net8.0\btap2809.dll
+C:\Users\User\source\repos\btap2809\btap2809\bin\Debug\net8.0\btap2809.pdb
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\btap2809.dll
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\refint\btap2809.dll
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\btap2809.pdb
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\btap2809.genruntimeconfig.cache
+C:\Users\User\source\repos\btap2809\btap2809\obj\Debug\net8.0\ref\btap2809.dll

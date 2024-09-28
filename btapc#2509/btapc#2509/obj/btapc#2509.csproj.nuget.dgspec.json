@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\btapc#2509\\btapc#2509\\btapc#2509.csproj": {}
+    "C:\\Users\\User\\source\\repos\\btap1809\\nop\\btapc#2509\\btapc#2509\\btapc#2509.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\btapc#2509\\btapc#2509\\btapc#2509.csproj": {
+    "C:\\Users\\User\\source\\repos\\btap1809\\nop\\btapc#2509\\btapc#2509\\btapc#2509.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\btapc#2509\\btapc#2509\\btapc#2509.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\btapc#2509\\btapc#2509\\btapc#2509.csproj",
         "projectName": "btapc#2509",
-        "projectPath": "C:\\Users\\User\\source\\repos\\btapc#2509\\btapc#2509\\btapc#2509.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\btapc#2509\\btapc#2509\\btapc#2509.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\btapc#2509\\btapc#2509\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\btapc#2509\\btapc#2509\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
