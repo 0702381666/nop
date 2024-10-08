@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\btaptt0810\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|c:\\users\\user\\source\\repos\\btaptt0810\\btaptt0810\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|solutionrelative:btaptt0810\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|c:\\users\\user\\source\\repos\\btaptt0810\\btaptt0810\\xehoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|solutionrelative:btaptt0810\\xehoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|c:\\users\\user\\source\\repos\\btaptt0810\\btaptt0810\\xedap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|solutionrelative:btaptt0810\\xedap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|c:\\users\\user\\source\\repos\\btaptt0810\\btaptt0810\\ptien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|solutionrelative:btaptt0810\\ptien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|c:\\users\\user\\source\\repos\\btaptt0810\\btaptt0810\\ithongtinthem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C077883-084B-44C6-9E27-90A9D2A1A382}|btaptt0810\\btaptt0810.csproj|solutionrelative:btaptt0810\\ithongtinthem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Program.cs",
+              "RelativeDocumentMoniker": "btaptt0810\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Program.cs*",
+              "RelativeToolTip": "btaptt0810\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:51:35.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Xedap.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Xedap.cs",
+              "RelativeDocumentMoniker": "btaptt0810\\Xedap.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Xedap.cs",
+              "RelativeToolTip": "btaptt0810\\Xedap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:37:57.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xehoi.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Xehoi.cs",
+              "RelativeDocumentMoniker": "btaptt0810\\Xehoi.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Xehoi.cs",
+              "RelativeToolTip": "btaptt0810\\Xehoi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:16:59.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ithongtinthem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Ithongtinthem.cs",
+              "RelativeDocumentMoniker": "btaptt0810\\Ithongtinthem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Ithongtinthem.cs",
+              "RelativeToolTip": "btaptt0810\\Ithongtinthem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:16:19.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ptien.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Ptien.cs",
+              "RelativeDocumentMoniker": "btaptt0810\\Ptien.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btaptt0810\\btaptt0810\\Ptien.cs",
+              "RelativeToolTip": "btaptt0810\\Ptien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:55:05.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

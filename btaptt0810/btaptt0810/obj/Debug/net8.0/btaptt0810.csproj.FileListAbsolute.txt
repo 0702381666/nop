@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\btaptt0810.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\btaptt0810.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\btaptt0810.AssemblyInfo.cs
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\btaptt0810.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\btaptt0810\btaptt0810\bin\Debug\net8.0\btaptt0810.exe
+C:\Users\User\source\repos\btaptt0810\btaptt0810\bin\Debug\net8.0\btaptt0810.deps.json
+C:\Users\User\source\repos\btaptt0810\btaptt0810\bin\Debug\net8.0\btaptt0810.runtimeconfig.json
+C:\Users\User\source\repos\btaptt0810\btaptt0810\bin\Debug\net8.0\btaptt0810.dll
+C:\Users\User\source\repos\btaptt0810\btaptt0810\bin\Debug\net8.0\btaptt0810.pdb
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\btaptt0810.dll
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\refint\btaptt0810.dll
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\btaptt0810.pdb
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\btaptt0810.genruntimeconfig.cache
+C:\Users\User\source\repos\btaptt0810\btaptt0810\obj\Debug\net8.0\ref\btaptt0810.dll
