@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\btap2310\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC070D29-79FC-4486-9EC1-3F0FBC22E91F}|btap2310\\btap2310.csproj|c:\\users\\user\\source\\repos\\btap2310\\btap2310\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC070D29-79FC-4486-9EC1-3F0FBC22E91F}|btap2310\\btap2310.csproj|solutionrelative:btap2310\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC070D29-79FC-4486-9EC1-3F0FBC22E91F}|btap2310\\btap2310.csproj|C:\\Users\\User\\source\\repos\\btap2310\\btap2310\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC070D29-79FC-4486-9EC1-3F0FBC22E91F}|btap2310\\btap2310.csproj|solutionrelative:btap2310\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC070D29-79FC-4486-9EC1-3F0FBC22E91F}|btap2310\\btap2310.csproj|C:\\Users\\User\\source\\repos\\btap2310\\btap2310\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC070D29-79FC-4486-9EC1-3F0FBC22E91F}|btap2310\\btap2310.csproj|solutionrelative:btap2310\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btap2310\\btap2310\\SanPham.cs",
+              "RelativeDocumentMoniker": "btap2310\\SanPham.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btap2310\\btap2310\\SanPham.cs",
+              "RelativeToolTip": "btap2310\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:18:04.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btap2310\\btap2310\\Form1.cs",
+              "RelativeDocumentMoniker": "btap2310\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btap2310\\btap2310\\Form1.cs*",
+              "RelativeToolTip": "btap2310\\Form1.cs*",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwG8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:12:00.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btap2310\\btap2310\\Form1.cs",
+              "RelativeDocumentMoniker": "btap2310\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btap2310\\btap2310\\Form1.cs [Design]",
+              "RelativeToolTip": "btap2310\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:08:53.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

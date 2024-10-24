@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.Form1.resources
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.csproj.GenerateResource.cache
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.AssemblyInfo.cs
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\btap1610\btap1610\bin\Debug\net8.0-windows\btap1610.exe
+C:\Users\User\source\repos\btap1610\btap1610\bin\Debug\net8.0-windows\btap1610.deps.json
+C:\Users\User\source\repos\btap1610\btap1610\bin\Debug\net8.0-windows\btap1610.runtimeconfig.json
+C:\Users\User\source\repos\btap1610\btap1610\bin\Debug\net8.0-windows\btap1610.dll
+C:\Users\User\source\repos\btap1610\btap1610\bin\Debug\net8.0-windows\btap1610.pdb
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.dll
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\refint\btap1610.dll
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.pdb
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\btap1610.genruntimeconfig.cache
+C:\Users\User\source\repos\btap1610\btap1610\obj\Debug\net8.0-windows\ref\btap1610.dll

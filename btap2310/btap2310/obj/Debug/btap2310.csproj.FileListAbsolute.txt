@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\btap2310\btap2310\obj\Debug\btap2310.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\btap2310\btap2310\obj\Debug\btap2310.Form1.resources
+C:\Users\User\source\repos\btap2310\btap2310\obj\Debug\btap2310.Properties.Resources.resources
+C:\Users\User\source\repos\btap2310\btap2310\obj\Debug\btap2310.csproj.GenerateResource.cache
+C:\Users\User\source\repos\btap2310\btap2310\obj\Debug\btap2310.csproj.CoreCompileInputs.cache
