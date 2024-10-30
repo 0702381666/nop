@@ -1,0 +1,17 @@
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\bin\Debug\net8.0-windows\BaiKiemTra.exe
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\bin\Debug\net8.0-windows\BaiKiemTra.deps.json
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\bin\Debug\net8.0-windows\BaiKiemTra.runtimeconfig.json
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\bin\Debug\net8.0-windows\BaiKiemTra.dll
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\bin\Debug\net8.0-windows\BaiKiemTra.pdb
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.Form1.resources
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.csproj.GenerateResource.cache
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.AssemblyInfoInputs.cache
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.AssemblyInfo.cs
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.csproj.CoreCompileInputs.cache
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.sourcelink.json
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.dll
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\refint\BaiKiemTra.dll
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.pdb
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.genruntimeconfig.cache
+D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\ref\BaiKiemTra.dll
