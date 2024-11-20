@@ -15,3 +15,20 @@ D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\refint\BaiKi
 D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.pdb
 D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\BaiKiemTra.genruntimeconfig.cache
 D:\C# git\BaiKiemTra_2024_10_30\BaiKiemTra\obj\Debug\net8.0-windows\ref\BaiKiemTra.dll
+C:\Users\User\source\repos\btap1809\nop\ktra3010\bin\Debug\net8.0-windows\BaiKiemTra.exe
+C:\Users\User\source\repos\btap1809\nop\ktra3010\bin\Debug\net8.0-windows\BaiKiemTra.deps.json
+C:\Users\User\source\repos\btap1809\nop\ktra3010\bin\Debug\net8.0-windows\BaiKiemTra.runtimeconfig.json
+C:\Users\User\source\repos\btap1809\nop\ktra3010\bin\Debug\net8.0-windows\BaiKiemTra.dll
+C:\Users\User\source\repos\btap1809\nop\ktra3010\bin\Debug\net8.0-windows\BaiKiemTra.pdb
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.Form1.resources
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.csproj.GenerateResource.cache
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.AssemblyInfo.cs
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.sourcelink.json
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.dll
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\refint\BaiKiemTra.dll
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.pdb
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\BaiKiemTra.genruntimeconfig.cache
+C:\Users\User\source\repos\btap1809\nop\ktra3010\obj\Debug\net8.0-windows\ref\BaiKiemTra.dll

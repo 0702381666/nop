@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\ktra3010\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16D31280-F204-42FA-8C33-A3D6A3E8A8C3}|BaiKiemTra.csproj|c:\\users\\user\\source\\repos\\btap1809\\nop\\ktra3010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D31280-F204-42FA-8C33-A3D6A3E8A8C3}|BaiKiemTra.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{16D31280-F204-42FA-8C33-A3D6A3E8A8C3}|BaiKiemTra.csproj|C:\\Users\\User\\source\\repos\\btap1809\\nop\\ktra3010\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16D31280-F204-42FA-8C33-A3D6A3E8A8C3}|BaiKiemTra.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\ShoppingCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16D31280-F204-42FA-8C33-A3D6A3E8A8C3}|BaiKiemTra.csproj|c:\\users\\user\\source\\repos\\btap1809\\nop\\ktra3010\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D31280-F204-42FA-8C33-A3D6A3E8A8C3}|BaiKiemTra.csproj|solutionrelative:shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\ktra3010\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\ktra3010\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T11:09:54.319Z",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\ktra3010\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "ShoppingCart.cs",
-              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\ktra3010\\ShoppingCart.cs",
               "RelativeToolTip": "ShoppingCart.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\ktra3010\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\BaiKiemTra\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\btap1809\\nop\\ktra3010\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwFUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T10:15:55.628Z",
               "EditorCaption": ""
