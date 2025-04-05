@@ -1,0 +1,24 @@
+[
+    {
+      "id": "p1",
+      "name": "Kimci BBQ Chicken",
+      "price": 19.99,
+      "image": "https://example.com/images/kimci.png",
+      "categoryId": "1"
+    },
+    {
+      "id": "p2",
+      "name": "Peri-Peri",
+      "price": 19.99,
+      "image": "https://example.com/images/peri-peri.png",
+      "categoryId": "1"
+    },
+    {
+      "id": "p3",
+      "name": "Coke",
+      "price": 1.99,
+      "image": "https://example.com/images/coke.png",
+      "categoryId": "3"
+    }
+  ]
+  

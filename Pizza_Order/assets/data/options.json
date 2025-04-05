@@ -1,0 +1,26 @@
+[
+    {
+      "productId": "p1",
+      "sizes": [
+        { "label": "Small 9.5\"", "price": 10.99 },
+        { "label": "Medium 11.5\"", "price": 15.99 },
+        { "label": "Large 13.5\"", "price": 19.99 }
+      ],
+      "addons": [
+        { "label": "Extra Cheese", "price": 1.00 },
+        { "label": "Chicken", "price": 1.00 }
+      ]
+    },
+    {
+      "productId": "p2",
+      "sizes": [
+        { "label": "Small", "price": 11.99 },
+        { "label": "Large", "price": 18.99 }
+      ],
+      "addons": [
+        { "label": "Spicy Sauce", "price": 0.50 },
+        { "label": "Jalapeno", "price": 1.00 }
+      ]
+    }
+  ]
+  
